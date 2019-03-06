@@ -10,5 +10,5 @@ sudo rmmod hid_uclogic
 sudo modprobe uinput
 sudo udevadm control --reload
 sudo udevadm trigger
-sudo /usr/bin/uclogic-probe $BUS $DEV | /usr/bin/uclogic-decode
+sudo uclogic-probe $BUS $DEV | uclogic-decode
 sudo python3 $DRIVER
