@@ -5,7 +5,7 @@
 
 ## Backstory
 
-In the summer of 2017, I bought a [Huion Kamvas GT-191](https://www.huiontablet.com/all-products/pen-tablet-monitor/kamvas-gt-191.html). It's a device that combines a stylus digitizer tablet with a full HD display. The idea is that you use the stylus to draw right on the screen.
+In the winter of 2018, I bought a [Huion Kamvas GT-191 v2](https://www.huiontablet.com/kamvas-gt-191-v2.html). It's a device that combines a stylus digitizer tablet with a full HD display. The idea is that you use the stylus to draw right on the screen.
 
 Huion has historically had [pretty decent Linux support](https://docs.krita.org/List_of_Tablets_Supported). It seemed likely that support for this latest manifestation would be added soon. Unfortunately however, the [DIGImend](http://digimend.github.io/) project that has been the primary force behind driver support for tablet devices [is in trouble](http://spbnick.github.io/2016/07/31/Wrapping-up-DIGImend-work.html). [Nikolai](https://github.com/spbnick), the lead dev [writes](http://spbnick.github.io/2016/07/31/Wrapping-up-DIGImend-work.html):
 
