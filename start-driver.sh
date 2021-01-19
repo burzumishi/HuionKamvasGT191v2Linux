@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Adjust this as needed
-DRIVER="./kamvas.py"
+DRIVER="/home/pi/Downloads/HuionKamvasGT191v2Linux-master/kamvas.py"
 
 T="256c:006e"
 BUS=$(lsusb | grep "$T" | sed -e 's|Bus \([0-9]*\) Device \([0-9]*\):.*$|\1|g')

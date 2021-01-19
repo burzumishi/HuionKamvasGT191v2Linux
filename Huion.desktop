@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.0.1
+Type=Application
+Name=Huion
+Comment=
+Exec=/home/pi/Downloads/HuionKamvasGT191v2Linux-master/start-driver.sh
+StartupNotify=false
+Terminal=false
+Hidden=false
